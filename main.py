@@ -1,5 +1,6 @@
 """
-git remote add origin git@github.com:andrew-it/Tables_Generator.git
+Module for creating tables data-set using LaTeX.
+Every table.pdf in data-set has an appropriate table.csv with the same data.
 You need to install some LaTeX builder for using this script.
 """
 import os
